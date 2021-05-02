@@ -9,3 +9,8 @@ console.log(multiply)
 
 let random = Math.floor(Math.random() * 10) + 1;
 console.log(random)
+
+num3 =
+num4 =
+let mod = num3 % num4
+console.log(mod)
