@@ -1,4 +1,7 @@
 
 // Write your code here
 
-const multiply = num1 * num2
+let num1 = 
+let num2 = 
+
+let multiply = num1 * num2
