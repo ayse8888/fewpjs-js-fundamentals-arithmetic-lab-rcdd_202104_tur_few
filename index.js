@@ -6,3 +6,5 @@ let num2 = 2
 
 let multiply = num1 * num2
 console.log(multiply)
+
+let random = Math.floor(Math.random() * 10)
