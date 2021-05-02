@@ -16,5 +16,7 @@ let mod = num3 % num4
 console.log(mod)
 
 
-let max = Math.max()
+let max = Math.max(20, 2, 3, 4, 5)
+console.log(max)
+
 
