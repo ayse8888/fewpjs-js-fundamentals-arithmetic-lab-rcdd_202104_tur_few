@@ -1,4 +1,4 @@
 
 // Write your code here
 
-const multiply = 
+const multiply = num1 * num2
